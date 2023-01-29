@@ -8,7 +8,8 @@ namespace LogicalProblem
         {
             Console.WriteLine(" $$$ LOGICAL PROBLEM $$$ ");
             //FibonacciSeries.fibonacciSeries();
-            PerfectNumber.perfectNumber();
+            //PerfectNumber.perfectNumber();
+            PrimeNumber.primeNumber();
         }
     }
 }

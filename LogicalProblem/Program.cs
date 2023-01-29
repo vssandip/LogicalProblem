@@ -10,7 +10,8 @@ namespace LogicalProblem
             //FibonacciSeries.fibonacciSeries();
             //PerfectNumber.perfectNumber();
             // PrimeNumber.primeNumber();
-            ReverseNumber.reverseNumber();
+            // ReverseNumber.reverseNumber();
+            Simulate_Stopwatch_Program.simulate_Stopwatch_Program();
         }
     }
 }

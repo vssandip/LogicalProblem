@@ -9,7 +9,8 @@ namespace LogicalProblem
             Console.WriteLine(" $$$ LOGICAL PROBLEM $$$ ");
             //FibonacciSeries.fibonacciSeries();
             //PerfectNumber.perfectNumber();
-            PrimeNumber.primeNumber();
+            // PrimeNumber.primeNumber();
+            ReverseNumber.reverseNumber();
         }
     }
 }

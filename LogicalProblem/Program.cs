@@ -7,7 +7,8 @@ namespace LogicalProblem
         static void Main(string[] args)
         {
             Console.WriteLine(" $$$ LOGICAL PROBLEM $$$ ");
-            FibonacciSeries.fibonacciSeries();
+            //FibonacciSeries.fibonacciSeries();
+            PerfectNumber.perfectNumber();
         }
     }
 }
